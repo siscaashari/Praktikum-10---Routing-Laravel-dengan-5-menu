@@ -1,0 +1,1 @@
+<?php /**PATH C:\laragon\www\praktikum-10\resources\views/layouts/app.blade.php ENDPATH**/ ?>
